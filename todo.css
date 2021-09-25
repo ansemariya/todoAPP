@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align:left;
+  }
+  
+  table {
+      margin: 2%;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  tr:hover {background-color:olivedrab;}
+  th{
+      color: rgb(9, 4, 77);
+      font-size: 2rem;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  }
+  input.new{
+    text-align: justify;
+    width: 25px;
+    height: 25px;
+}
+input.nw1{
+ 
+  width: 25px;
+  height: 25px;
+}
